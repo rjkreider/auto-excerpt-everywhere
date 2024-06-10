@@ -50,3 +50,7 @@ New feature: you can now choose the thumbnail alignment.
 = 1.5 =
 
 New features: you can now exclude your home page and add an image button as a read more link.
+
+= 1.6 =
+
+Vulnerability fix: CVE-2023-46776 (https://www.cve.org/CVERecord?id=CVE-2023-46776)
