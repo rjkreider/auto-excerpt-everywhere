@@ -3,9 +3,9 @@
 Plugin Name: Auto Excerpt everywhere
 Plugin URI: http://www.josie.it/wordpress/wordpress-plugin-auto-excerpt-everywhere/
 Description: The plugin shows excerpts instead of contents in your blog, single posts and pages excluded. It tries to display your custom excerpt text and if it doesn't find it it will show an automatically generated excerpt. You can also define an excerpt length (default is 500) and a custom read more link.
-Version: 1.5
-Author: Serena Villa
-Author URI: http://www.josie.it
+Version: 1.6
+Author: Serena Villa (Rich Kreider)
+Author URI: http://www.josie.it (Rich Kreider)
 */
 
 function auto_excerpt_everywhere_activation() {
